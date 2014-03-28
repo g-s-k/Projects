@@ -11,6 +11,7 @@ Some details about this repo:
 I will link to each project that I complete. Some will be in this same repo, some bigger ones will have dedicated repos.
 
 Numbers
+=======
 
 Find Pi to the Nth Digit - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
@@ -50,6 +51,7 @@ Number Names - Show how to spell out a number in English. You can use a preexist
 Coin Flip Simulation - Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads.
 
 Classic Algorithms
+==================
 
 Collatz Conjecture - Start with a number n > 1. Find the number of steps it takes to reach one using the following process: If n is even, divide it by 2. If n is odd, multiply it by 3 and add 1.
 
@@ -60,6 +62,7 @@ Closest pair problem - The closest pair of points problem or closest pair proble
 Sieve of Eratosthenes - The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes (below 10 million or so).
 
 Graphs
+======
 
 Graph from links - Create a program that will create a graph or network from a series of links.
 
@@ -75,6 +78,7 @@ Data Structures
 Inverted index - An Inverted Index is a data structure used to create full text search. Given a set of text files, implement a program to create an inverted index. Also create a user interface to do a search using that inverted index which returns a list of files that contain the query term / terms. The search index can be in memory.
 
 Text
+====
 
 Reverse a String - Enter a string and the program will reverse it and print it out.
 Pig Latin - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
@@ -106,6 +110,7 @@ Markdown to HTML Converter - Converts Markdown formatted text into HTML files. I
 Regex Query Tool - A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
 
 Networking
+==========
 
 FTP Program - A file transfer program which can transfer files back and forth from a remote web sever.
 
@@ -122,6 +127,7 @@ Whois Search Tool - Enter an IP or host address and have it look it up through w
 Site Checker with Time Scheduling - An application that attempts to connect to a website or server every so many minutes or a given time and check if it is up. If it is down, it will notify you by email or by posting a notice on screen.
 
 Classes
+=======
 
 Product Inventory Project - Create an application which manages an inventory of products. Create a product class which has a price, id, and quantity on hand. Then create an inventory class which keeps track of various products and can sum up the inventory value.
 
@@ -142,6 +148,7 @@ Flower Shop Ordering To Go - Create a flower shop application which deals in flo
 Family Tree Creator - Create a class called Person which will have a name, when they were born and when (and if) they died. Allow the user to create these Person classes and put them into a family tree structure. Print out the tree to the screen.
 
 Threading
+=========
 
 Create A Progress Bar for Downloads - Create a progress bar for applications that can keep track of a download in progress. The progress bar will be on a separate thread and will communicate with the main thread using delegates.
 
@@ -185,6 +192,7 @@ Mp3 Tagger - Modify and add ID3v1 tags to MP3 files. See if you can also add in 
 Code Snippet Manager - Another utility program that allows coders to put in functions, classes or other tidbits to save for use later. Organized by the type of snippet or language the coder can quickly look up code. Optional: For extra practice try adding syntax highlighting based on the language.
 
 Databases
+=========
 
 SQL Query Analyzer - A utility application which a user can enter a query and have it run against a local database and look for ways to make it more efficient.
 
@@ -203,6 +211,8 @@ TV Show Tracker - Got a favorite show you don’t want to miss? Don’t have a P
 Travel Planner System - Make a system that allows users to put together their own little travel itinerary and keep track of the airline / hotel arrangements, points of interest, budget and schedule.
 
 Graphics and Multimedia
+=======================
+
 Slide Show - Make an application that shows various pictures in a slide show format. Optional: Try adding various effects like fade in/out, star wipe and window blinds transitions.
 Stream Video from Online - Try to create your own online streaming video player.
 Mp3 Player - A simple program for playing your favorite music files. Add features you though are missing from your favorite music player.
@@ -210,6 +220,8 @@ Watermarking Application - Have some pictures you want copyright protected? Add 
 Turtle Graphics - This is a common project where you create a floor of 20 x 20 squares. Using various commands you tell a turtle to draw a line on the floor. You have move forward, left or right, lift or drop pen etc. Do a search online for "Turtle Graphics" for more information. Optional: Allow the program to read in the list of commands from a file.
 
 Security
+========
+
 Caesar cipher - Implement a Caesar cipher, both encoding and decoding. The key is an integer from 1 to 25. This cipher rotates the letters of the alphabet (A to Z). The encoding replaces each letter with the 1st to 25th next letter in the alphabet (wrapping Z to A). So key 2 encrypts "HI" to "JK", but key 20 encrypts "HI" to "BC". This simple "monoalphabetic substitution cipher" provides almost no security, because an attacker who has the encoded message can either use frequency analysis to guess the key, or just try all 25 keys.
 
 
