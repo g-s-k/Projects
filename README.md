@@ -1,20 +1,7 @@
 Projects
 ========
 
-Trying to complete over 100 projects in various categories in Javascript/Python. Fork to learn any new language.
-
-Some details about this repo:
-
-	•	I will use Python/Javascript to solve these. Why? Because I want to learn the languages quickly
-	
-	•	The projects will not be made in the order posted.
-	
-	•	I may not be able to complete all of them.
-	
-	•	My method of solving them may not be the best. 
-	
-If you do not like my algorithm(s), please add a comment for the file/commit or open an issue, and I'll try to improve.
-I will link to each project that I complete. Some will be in this same repo, some bigger ones will have dedicated repos.
+Fork to learn any new language.
 
 Numbers
 =======
@@ -72,7 +59,7 @@ Graphs
 
 Graph from links - Create a program that will create a graph or network from a series of links.
 
-Eulerian Path - Create a program which will take as an input a graph and output either a Eulerian path or a Eulerian cycle, or state that it is not possible. A 
+Eulerian Path - Create a program which will take as an input a graph and output either a Eulerian path or a Eulerian cycle, or state that it is not possible. A
 
 Eulerian Path starts at one node and traverses every edge of a graph through every node and finishes at another node. A Eulerian cycle is a eulerian Path that starts and finishes at the same node.
 
@@ -102,7 +89,7 @@ Post it Notes Program - A program where you can add text reminders and post them
 
 Quote Tracker (market symbols etc) - A program which can go out and check the current value of stocks for a list of symbols entered by the user. The user can set how often the stocks are checked. For CLI, show whether the stock has moved up or down.Optional: If GUI, the program can show green up and red down arrows to show which direction the stock value has moved.
 
-Guestbook / Journal - A simple application that allows people to add comments or write journal entries. It can allow comments or not and timestamps for all entries. Could also be made into a shout box. Optional: Deploy it on Google 
+Guestbook / Journal - A simple application that allows people to add comments or write journal entries. It can allow comments or not and timestamps for all entries. Could also be made into a shout box. Optional: Deploy it on Google
 
 App Engine or Heroku or any other PaaS (if possible, of course).
 
@@ -169,7 +156,7 @@ Online White Board - Create an application which allows you to draw pictures, wr
 
 Get Atomic Time from Internet Clock - This program will get the true atomic time from an atomic time clock on the Internet. Use any one of the atomic clocks returned by a simple Google search.
 
-Fetch Current Weather - Get the current weather for a given zip/postal code. 
+Fetch Current Weather - Get the current weather for a given zip/postal code.
 Optional: Try locating the user automatically.
 
 Scheduled Auto Login and Action - Make an application which logs into a given site on a schedule and invokes a certain action and then logs out. This can be useful for checking web mail, posting regular content, or getting info for other applications and saving it to your computer.
@@ -190,7 +177,7 @@ Sort Excel/CSV File Utility - Reads a file of records, sorts them, and then writ
 
 Create Zip File Maker - The user enters various files from different directories and the program zips them up into a zip file. Optional: Apply actual compression to the files. Start with Huffman Algorithm.
 
-PDF Generator - An application which can read in a text file, html file or some other file and generates a PDF file out of it. Great for a web based service where the user uploads the file and the program returns a PDF of the file. 
+PDF Generator - An application which can read in a text file, html file or some other file and generates a PDF file out of it. Great for a web based service where the user uploads the file and the program returns a PDF of the file.
 
 Optional: Deploy on GAE or Heroku if possible.
 
@@ -229,7 +216,3 @@ Security
 ========
 
 Caesar cipher - Implement a Caesar cipher, both encoding and decoding. The key is an integer from 1 to 25. This cipher rotates the letters of the alphabet (A to Z). The encoding replaces each letter with the 1st to 25th next letter in the alphabet (wrapping Z to A). So key 2 encrypts "HI" to "JK", but key 20 encrypts "HI" to "BC". This simple "monoalphabetic substitution cipher" provides almost no security, because an attacker who has the encoded message can either use frequency analysis to guess the key, or just try all 25 keys.
-
-
-
-
